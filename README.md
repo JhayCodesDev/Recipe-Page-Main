@@ -91,7 +91,8 @@ Wrote the README and prepared the project for deployment.
 
 ### Built with
 
-- Semantic HTML5 markup  
+- Semantic HTML5 markup
+- Flexbox for layout (body and sections) 
 - CSS custom properties  
 - Container-based layout (using wrappers and sub-wrappers for structure)  
 - Desktop-first workflow (styled larger screens first, then optimized for smaller ones 320px–767px)  
