@@ -38,8 +38,6 @@ This challenge was a valuable opportunity to practice structuring layouts with c
 ![Recipe page screenshot for mobile](./Screenshot%202025-09-02%20at%2017-54-06%20Frontend%20Mentor%20Recipe%20page.png)
 
 ### Links
-
-- Solution URL: [My Frontend Mentor Solution](http://127.0.0.1:5500/index.html)
 - Live Site URL: [View live site here](https://JhayCodesDev.github.io/Recipe-Page-Main/)
 
 ## My process.
