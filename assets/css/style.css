@@ -64,15 +64,17 @@ header, main, section, footer {
     border-radius: 10px;
 }
 
-.preparation-time p{
+.preparation-time h2{
     color: hsl(332, 51%, 32%);
     font-size: 18px;
     font-weight: 600;
+    font-family: 'Outfit', sans-serif;
+
 }
 
 .preparation-time ul{
     margin-inline-start: -20px;
-    line-height: 2em;
+    line-height: 2rem;
     color: hsl(24, 5%, 18%);
 }
 
@@ -102,7 +104,7 @@ header, main, section, footer {
 
 .ingredients ul{
     margin-inline-start: -35px;
-    line-height: 2em;
+    line-height: 2rem;
     color: hsl(14, 45%, 36%);
 }
 
@@ -131,7 +133,7 @@ header, main, section, footer {
 
 .instructions ol{
     margin-inline-start: -43px;
-    line-height: 2em;
+    line-height: 2rem;
     color: hsl(14, 45%, 36%);
 }
 
@@ -173,7 +175,12 @@ header, main, section, footer {
 }
 
 .nutrition th{
+    font-weight: 400;
+}
+
+.nutrition td{
     color: hsl(14, 45%, 36%);
+    font-weight: 700;
 }
 
 .attribution { 
